@@ -1,5 +1,10 @@
 jjj
 jdjsas
 
+<<<<<<< HEAD
 Hola mundo hola otra vez
 
+=======
+Hola mundo chao
+ddd
+>>>>>>> 028ac9f9f7b4e738ab4fb3407c0215c9d6c8adc8
